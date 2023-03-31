@@ -41,25 +41,25 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6283813063969'] //ur owner number
-global.ownername = "FATURRAHMAN AFRIZAL"
-global.ytname = "https://tiktok.com/@gw.faturr" //ur yt chanel name
-global.socialm = "GitHub: Faturrbotz" //ur github or insta name
+global.owner = ['6281364735229'] //ur owner number
+global.ownername = "ryy"
+global.ytname = "https://tiktok.com/@not_rynz" //ur yt chanel name
+global.socialm = "GitHub: ryyansyah" //ur github or insta name
 global.location = "Indonesia" //ur location
 
 //bot bombdy
-global.botname = "KannaBOT-MD" //ur bot name
-global.websitex = "https://tiktok.com/@gw.faturr" //ur website
+global.botname = "salsa" //ur bot name
+global.websitex = "https://tiktok.com/@not_rynz" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "KannaBOT-MD\n\n\n\n\n\n\ "
-global.author = "By FATURRAHMAN"
+global.author = "By ryy"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['6283813063969'] //ur owner tag
-global.ownernummenu = ['6283813063969'] //ur owner number in menu and all
-global.watermark = "Created By © Faturr." //ur watermark
+global.ownertag = ['6281364735229'] //ur owner tag
+global.ownernummenu = ['6281364735229'] //ur owner number in menu and all
+global.watermark = "Created By © ryy." //ur watermark
 global.botscript = "www.xnxx.com"
-global.linkz1 = "https://tiktok.com/@gw.faturr"
+global.linkz1 = "https://tiktok.com/@not_rynz"
 global.linkz2 = "-"
 
 //Bot theme media
